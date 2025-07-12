@@ -1,0 +1,14 @@
+artifact_uri: /Users/gupalo/Documents/mlops/petagochi-api/mlruns/121793714016214256/538a6816cb8f491087442cbc30760baf/artifacts
+end_time: 1752222998157
+entry_point_name: ''
+experiment_id: '121793714016214256'
+lifecycle_stage: active
+run_id: 538a6816cb8f491087442cbc30760baf
+run_name: invincible-croc-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752222996297
+status: 3
+tags: []
+user_id: gupalo
