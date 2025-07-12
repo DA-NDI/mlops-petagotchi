@@ -1,6 +1,4 @@
----
-
-# 🐾 Petagotchi — UCU MLOps Project (brief)
+# Petagotchi — UCU MLOps Project (brief)
 
 > An interactive, ML-powered virtual pet (yes, like Tamagotchi) that learns from how you treat it.
 > **Status**: 🚧 In Progress
