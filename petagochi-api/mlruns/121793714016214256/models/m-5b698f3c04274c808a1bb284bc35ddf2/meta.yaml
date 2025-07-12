@@ -1,0 +1,10 @@
+artifact_location: /Users/gupalo/Documents/mlops/petagochi-api/mlruns/121793714016214256/models/m-5b698f3c04274c808a1bb284bc35ddf2/artifacts
+creation_timestamp: 1752222996340
+experiment_id: '121793714016214256'
+last_updated_timestamp: 1752222998152
+model_id: m-5b698f3c04274c808a1bb284bc35ddf2
+model_type: null
+name: petagotchi_model
+source_run_id: 538a6816cb8f491087442cbc30760baf
+status: 2
+status_message: null
